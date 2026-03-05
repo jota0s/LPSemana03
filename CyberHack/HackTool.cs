@@ -1,10 +1,15 @@
 using System;
 
- public enum HackTool
-{
-    CorporateServer,
-    BankDatabase,
-    SmartCityCore,
-    MilitaryAI,
+namespace HackTool
 
- }
+{
+    public enum HackTool
+    {
+        CorporateServer,
+        BankDatabase,
+        SmartCityCore,
+        MilitaryAI,
+
+    }
+
+}
